@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tacgia" value="name:MaTG;datatype:int,name:TenTG;datatype:varchar" />
+	<infoitem key="UD_theloai" value="name:MaTL;datatype:int,name:TenTL;datatype:varchar" />
+</info>

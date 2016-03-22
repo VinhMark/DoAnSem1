@@ -1,0 +1,41 @@
+.theten{
+	background-color:#FFF;
+	box-shadow:5px 3px 5px #999999;
+	border-radius:0px;
+	margin-top:5px;
+	margin-left:5px;
+	margin-right:10px;
+	}
+.thethongtin{
+	background-color:#FFF;
+	box-shadow: 5px 3px 5px #999999;
+	border-radius:0px;
+	margin-top:15px;
+	margin-left:10px;
+	
+	float:left;
+	}
+.thethongtin img{
+	margin-left:8%;
+	}	
+div.chuyentrang{
+	margin-bottom:100px;
+	margin-left:5px;
+	background:#000;
+
+	}		
+.noidung{
+	width:auto;
+	height:auto;
+	}
+.thethongtin:hover{
+	background-color:#CCC;
+	}	
+div .info-box blue-bg{
+	background-image:url(../img/hinh-dong-nauto.gif);
+	}	
+.chuyentrang{
+		margin-top:15px;
+	margin-left:10px;
+	float:left;
+	}	

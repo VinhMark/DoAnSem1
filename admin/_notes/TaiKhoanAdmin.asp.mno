@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_admin" value="name:MaAdmin;datatype:int,name:TaiKhoan;datatype:varchar,name:MatKhau;datatype:varchar" />
+</info>

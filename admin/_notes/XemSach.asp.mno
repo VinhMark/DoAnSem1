@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_XemSP" value="name:MaSach;datatype:int,name:TenSach;datatype:varchar,name:HinhAnh;datatype:varchar,name:NXB;datatype:varchar,name:Gia;datatype:float,name:TacGia;datatype:int,name:TinhTrang;datatype:int,name:TheLoai;datatype:int,name:MoTa;datatype:varchar,name:SoLuong;datatype:int,name:HienThi;datatype:int" />
+	<infoitem key="UD_soLuong" value="name:;datatype:int" />
+</info>
